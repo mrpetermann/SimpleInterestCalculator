@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String args[]) {
+    public static void main(String[] a) {
         int principle = 1000;
 
         //Yrs 1,2,3 with 5% interest
